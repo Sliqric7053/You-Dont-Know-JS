@@ -1,5 +1,7 @@
 # You Don't Know JS (book series)
 
+[![Join the chat at https://gitter.im/Sliqric7053/You-Dont-Know-JS](https://badges.gitter.im/Sliqric7053/You-Dont-Know-JS.svg)](https://gitter.im/Sliqric7053/You-Dont-Know-JS?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is a series of books diving deep into the core mechanisms of the JavaScript language. The first edition of the series is now complete.
 
 <a href="http://shop.oreilly.com/product/0636920039303.do"><img src="up %26 going/cover.jpg" width="75"></a>&nbsp;
